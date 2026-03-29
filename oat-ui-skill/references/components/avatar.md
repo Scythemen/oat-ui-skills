@@ -1,5 +1,7 @@
 # Avatar
 
+Demo: https://oat.ink/demo/#avatar
+
 `<figure data-variant="avatar">` wraps images or abbreviations.
 
 ## Image Avatar

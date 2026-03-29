@@ -1,5 +1,7 @@
 # Alert
 
+Demo: https://oat.ink/demo/#alert
+
 `role="alert"` activates styling, `data-variant` selects the type.
 
 ## Variants

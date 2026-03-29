@@ -1,5 +1,7 @@
 # Toast
 
+Demo: https://oat.ink/demo/#toast
+
 JS API: `ot.toast(message, title?, options?)`
 
 ## Basic Usage

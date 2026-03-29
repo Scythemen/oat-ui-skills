@@ -1,5 +1,7 @@
 # Table
 
+Demo: https://oat.ink/demo/#table
+
 Semantic `<table>` with `.table` container for responsive horizontal scrolling on mobile.
 
 ## Basic Table

@@ -1,5 +1,7 @@
 # Meter
 
+Demo: https://oat.ink/demo/#meter
+
 Native `<meter>` element with automatic color based on value.
 
 ## Basic Usage

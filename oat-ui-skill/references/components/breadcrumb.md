@@ -1,5 +1,7 @@
 # Breadcrumb
 
+Demo: https://oat.ink/demo/#breadcrumb
+
 Semantic `<nav>` + `<ol>` structure for navigation paths.
 
 ## Basic Structure

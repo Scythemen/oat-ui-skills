@@ -1,5 +1,7 @@
 # Switch
 
+Demo: https://oat.ink/demo/#switch
+
 `<input type="checkbox" role="switch">` toggle component.
 
 ## Basic Usage

@@ -1,5 +1,7 @@
 # Pagination
 
+Demo: https://oat.ink/demo/#pagination
+
 Reuses Button component with `<nav>` semantics.
 
 ## Basic Pagination

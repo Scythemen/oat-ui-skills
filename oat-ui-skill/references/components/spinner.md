@@ -1,5 +1,7 @@
 # Spinner
 
+Demo: https://oat.ink/demo/#spinner
+
 `aria-busy="true"` activates spinner, with size customization.
 
 ## Basic Usage

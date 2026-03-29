@@ -1,5 +1,7 @@
 # Skeleton
 
+Demo: https://oat.ink/demo/#skeleton
+
 Skeleton screen placeholders using `.skeleton` + `role="status"`.
 
 ## Basic Usage

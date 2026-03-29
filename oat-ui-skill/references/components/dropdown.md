@@ -1,6 +1,10 @@
 # Dropdown
 
+Demo: https://oat.ink/demo/#dropdown
+
 `<ot-dropdown>` Web Component using native Popover API.
+
+**Usage:** Wrap in `<ot-dropdown>`. Use `popovertarget` on the trigger and `popover` on the target. If a dropdown `<menu>`, items use `role="menuitem"`.
 
 ## Menu Dropdown
 

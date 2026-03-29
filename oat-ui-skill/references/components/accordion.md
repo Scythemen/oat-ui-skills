@@ -1,5 +1,7 @@
 # Accordion
 
+Demo: https://oat.ink/demo/#accordion
+
 Uses native `<details>` + `<summary>`, **no classes needed**.
 
 ## Basic Usage

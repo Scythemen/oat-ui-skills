@@ -1,5 +1,7 @@
 # Button
 
+Demo: https://oat.ink/demo/#button
+
 `<button>` is styled by default, `<a>` needs `.button` class.
 
 ## Basic Buttons

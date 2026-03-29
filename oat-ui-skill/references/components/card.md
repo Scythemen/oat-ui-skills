@@ -1,5 +1,7 @@
 # Card
 
+Demo: https://oat.ink/demo/#card
+
 Add `.card` to any element, commonly used with `<article>`.
 
 ## Basic Card
@@ -20,7 +22,7 @@ Add `.card` to any element, commonly used with `<article>`.
 
 ## Header and Footer Layout
 
-Use `.hstack` on footer for horizontal layout:
+Use `.hstack` on footer for horizontal layout. **Note:** `.hstack` is optional — it only adds horizontal spacing between elements. Buttons will stack vertically without it.
 
 ```html
 <article class="card">

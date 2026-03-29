@@ -1,5 +1,7 @@
 # Tabs
 
+Demo: https://oat.ink/demo/#tabs
+
 `<ot-tabs>` Web Component. Button count must match panel count.
 
 ## Basic Usage

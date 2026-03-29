@@ -1,5 +1,7 @@
 # Dialog
 
+Demo: https://oat.ink/demo/#dialog
+
 Native `<dialog>` element with automatic focus trapping and keyboard support.
 
 ## Basic Modal

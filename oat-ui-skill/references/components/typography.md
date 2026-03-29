@@ -1,5 +1,7 @@
 # Typography
 
+Demo: https://oat.ink/demo/#typography
+
 **No classes needed.** Simply use semantic tags and they are styled automatically.
 
 ## Tag Reference

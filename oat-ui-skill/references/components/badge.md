@@ -1,5 +1,7 @@
 # Badge
 
+Demo: https://oat.ink/demo/#badge
+
 `<span class="badge">` inline badge for labels and status markers.
 
 ## Variants

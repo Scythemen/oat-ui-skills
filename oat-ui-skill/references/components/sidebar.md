@@ -1,6 +1,10 @@
 # Sidebar
 
+Demo: https://oat.ink/demo/#sidebar
+
 Layout attribute system supporting sidebar and top navigation.
+
+**Usage:** Use `data-sidebar-layout` on a container (typically `<body>`) with `<aside data-sidebar>` for the sidebar and `<main>` for content. The sidebar stays sticky while the main content scrolls. On mobile, the sidebar becomes a slide-out overlay toggled by a `[data-sidebar-toggle]` button. To make the sidebar collapsible at all widths, set `data-sidebar-layout="always"`.
 
 ## Basic Sidebar
 
