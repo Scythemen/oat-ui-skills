@@ -1,6 +1,6 @@
 ---
 name: oat-ui-skill
-description: Oat UI ultra-lightweight UI library assistant. Use this skill when users want to create buttons, forms, dialogs, menus, badges, cards, grids, or any other UI components with Oat UI. Covers all Oat UI components with HTML usage, attributes, class names, and code examples.
+description: Oat UI ultra-lightweight UI library assistant. Use this skill when users want to create buttons, forms, dialogs, menus, badges, cards, grids, or any other UI components with Oat UI. Covers all Oat UI components with HTML usage, attributes, class names, and code examples. Also covers CSS utilities for layout, spacing, alignment (`.hstack`, `.vstack`, `.gap-*`, `.justify-*`, `.mt-*`, etc.).
 ---
 
 # Oat UI Skill
@@ -69,23 +69,41 @@ Direct download pre-built files:
 | [Tabs](references/components/tabs.md) | `<ot-tabs>` | `role="tablist"`, `role="tab"`, `role="tabpanel"` |
 | [Toast](references/components/toast.md) | JS API | `ot.toast(message, title, options)` |
 | [Tooltip](references/components/tooltip.md) | `title` attribute | — |
+| [Utilities](references/utilities.md) | CSS utility classes | `.hstack`, `.vstack`, `.gap-*`, `.justify-*`, `.mt-*`, `.mb-*`, `.flex`, `.text-light`, `.w-100` |
 
 ## Common Classes
 
 | Class | Purpose |
 |-------|---------|
-| `.hstack` | Horizontal stack layout |
-| `.unstyled` | Remove default styles |
-| `.outline` | Outline style |
+| `.hstack` | Horizontal stack (flex row, centered, gap) |
+| `.vstack` | Vertical stack (flex column, gap) |
+| `.flex` | Display flex |
+| `.flex-col` | Flex column direction |
+| `.items-center` | Align items center |
+| `.justify-center` | Justify content center |
+| `.justify-between` | Justify content space-between |
+| `.justify-end` | Justify content flex-end |
+| `.gap-1` / `.gap-2` / `.gap-4` | Explicit gap overrides |
+| `.mt-2` / `.mt-4` / `.mt-6` | Margin block start |
+| `.mb-2` / `.mb-4` / `.mb-6` | Margin block end |
+| `.p-4` | Padding |
+| `.w-100` | Full width |
+| `.align-left` / `.align-center` / `.align-right` | Text alignment |
+| `.text-light` / `.text-lighter` | Muted / faint text color |
+| `.unstyled` | Remove default list/link styles |
+| `.outline` | Outline button style |
 | `.small` / `.sm` | Small size |
 | `.large` | Large size |
 
+See [utilities.md](references/utilities.md) for full examples.
+
 ## Usage
 
-When user needs to create any UI component:
+When user needs to create any UI component or layout:
 1. Identify the most suitable Oat UI component for the user's needs
 2. Read the corresponding component file for detailed usage
-3. Output complete HTML code examples
-4. If JS is needed (e.g., Toast), provide the JavaScript code
+3. Check [utilities.md](references/utilities.md) for layout/spacing/alignment needs
+4. Output complete HTML code examples
+5. If JS is needed (e.g., Toast), provide the JavaScript code
 
 **Project:** https://oat.ink/ | **GitHub:** https://github.com/knadh/oat
